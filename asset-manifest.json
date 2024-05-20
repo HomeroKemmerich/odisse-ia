@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-landing-page/static/css/main.ae42ac5f.css",
-    "main.js": "/react-landing-page/static/js/main.01dfd5ec.js",
-    "index.html": "/react-landing-page/index.html",
-    "main.ae42ac5f.css.map": "/react-landing-page/static/css/main.ae42ac5f.css.map",
-    "main.01dfd5ec.js.map": "/react-landing-page/static/js/main.01dfd5ec.js.map"
+    "main.css": "/odisse-ia/static/css/main.ae42ac5f.css",
+    "main.js": "/odisse-ia/static/js/main.01dfd5ec.js",
+    "index.html": "/odisse-ia/index.html",
+    "main.ae42ac5f.css.map": "/odisse-ia/static/css/main.ae42ac5f.css.map",
+    "main.01dfd5ec.js.map": "/odisse-ia/static/js/main.01dfd5ec.js.map"
   },
   "entrypoints": [
     "static/css/main.ae42ac5f.css",
