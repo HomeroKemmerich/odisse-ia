@@ -18,7 +18,7 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-            React Landing Page
+            odisse.ia
           </a>{" "}
         </div>
 
@@ -27,39 +27,39 @@ export const Navigation = (props) => {
           id="bs-example-navbar-collapse-1"
         >
           <ul className="nav navbar-nav navbar-right">
-            <li>
+            {/* <li>
               <a href="#features" className="page-scroll">
-                Features
+                Serviços
               </a>
-            </li>
+            </li> */}
             <li>
               <a href="#about" className="page-scroll">
-                About
+                Sobre nós
               </a>
             </li>
             <li>
               <a href="#services" className="page-scroll">
-                Services
+                Serviços
               </a>
             </li>
             <li>
               <a href="#portfolio" className="page-scroll">
-                Gallery
+                Portfólio
               </a>
             </li>
-            <li>
+            {/* <li>
               <a href="#testimonials" className="page-scroll">
                 Testimonials
               </a>
-            </li>
+            </li> */}
             <li>
               <a href="#team" className="page-scroll">
-                Team
+                A equipe
               </a>
             </li>
             <li>
               <a href="#contact" className="page-scroll">
-                Contact
+                Fale conosco
               </a>
             </li>
           </ul>
